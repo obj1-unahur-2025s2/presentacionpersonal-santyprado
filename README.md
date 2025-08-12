@@ -3,7 +3,7 @@
 # Programación con objetos I
 ## Presentación Personal
 
-#Santiago Prado
+# Santiago Prado
 
 Hola! Mi nombre es Santiago Prado y actualmente estoy cursando la Técnicatura en Programación. Tengo 25 años y actualmente vivo en Hurlingham.
 Estoy emocionado por empezar esta materia que parece ser muy interesante.
